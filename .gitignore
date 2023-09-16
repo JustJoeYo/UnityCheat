@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+*.ipch
+*.db
+*.lock
+*.vsidx
+UnityCheat/.vs/UnityCheat/v17/.suo
+*.tlog
+*.pdb
+*.ipdb
+*.log
+*.iobj
+*.recipe
+*.res
+.vs/UnityCheat/v17/.suo
